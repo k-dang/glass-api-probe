@@ -1,0 +1,4 @@
+Glass check-status probe: failing
+
+This PR is a fixture for the Glass PR list.
+Its glass-probe/checks commit status is deliberately set to failure.
