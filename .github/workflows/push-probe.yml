@@ -1,0 +1,7 @@
+name: push-probe
+on: push
+jobs:
+  note:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo "pushed ${{ github.ref }}"
