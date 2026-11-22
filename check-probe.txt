@@ -1,0 +1,5 @@
+Glass check-status probe: running
+
+This PR is a fixture for the Glass PR list.
+Its glass-probe/checks commit status is deliberately set to pending.
+This status is intentionally left pending; there is no workflow or runner executing.
